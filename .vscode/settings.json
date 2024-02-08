@@ -1,0 +1,7 @@
+{
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "python.analysis.inlayHints.variableTypes": false,
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoFormatStrings": true
+}

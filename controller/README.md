@@ -1,0 +1,1 @@
+This package is an example of external script that can interact with the game using a Redis interface.
